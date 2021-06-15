@@ -10,5 +10,7 @@ public class MyGit {
 
         System.out.println("hello Git");
         System.out.println("主分支第二次添加");
+        System.out.println("主分支添加");
+        System.out.println("dev分支添加2");
     }
 }
